@@ -1,0 +1,27 @@
+@Test
+  /*  public void testIfObjectsAreSame() throws Exception {
+        /*Arrange*/
+        /*EmployeeEmail empEmail1=new EmployeeEmail();
+        empEmail1.addEmployeeEmailId("Emp01","peter@testdomain.com");
+        EmployeeEmail empEmail2=new EmployeeEmail();
+        empEmail1.addEmployeeEmailId("Emp02", "mary@testdomain.com");
+        /*Act*/
+        Map map1=empEmail1.hashMap;
+        Map map2=empEmail2.hashMap;
+        map1= map2;*/
+        /*Assert*/
+        assertSame("Failed because objects are not same ", map1, map2);
+    }
+    @Test
+    public void testIfObjectsAreNotSame() throws Exception {
+        /*Arrange*/
+        EmployeeEmail empEmail1=new EmployeeEmail();
+        empEmail1.addEmployeeEmailId("Emp01","peter@testdomain.com");
+        EmployeeEmail empEmail2=new EmployeeEmail();
+        empEmail1.addEmployeeEmailId("Emp02", "mary@testdomain.com");
+        /*Act*/
+        Map map1=empEmail1.hashMap;
+        Map map2=empEmail2.hashMap;
+        /*Assert*/
+        assertNotSame("Failed because objects are same ", map1, map2);
+    }*/
