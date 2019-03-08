@@ -176,6 +176,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -353,7 +354,7 @@
       <workItem from="1552047672309" duration="2779000" />
       <workItem from="1552053105117" duration="4420000" />
       <workItem from="1552059617154" duration="1376000" />
-      <workItem from="1552061747129" duration="308000" />
+      <workItem from="1552061747129" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="committing project 3">
       <created>1552058052902</created>
@@ -405,11 +406,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15339000" />
+    <option name="totallyTimeSpent" value="16180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
