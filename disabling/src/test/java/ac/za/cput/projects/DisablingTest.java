@@ -20,7 +20,7 @@ public class DisablingTest {
 
     @Test
     public void printMessage() {
-        //	Check type return
+
         assertThat(dis.printingMessage(), isA(String.class));
         assertEquals(message, dis.printingMessage());
 

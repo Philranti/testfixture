@@ -6,9 +6,14 @@
 
   <groupId>ac.za.cput.projects</groupId>
   <artifactId>testfixture</artifactId>
-  <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
 
-  <name>testfixture</name>
+      <module>submodel</module>
+    </modules>
+
+    <name>testfixture</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

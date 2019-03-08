@@ -2,9 +2,11 @@ package ac.za.cput.projects;
 //package guru.springframework.unittest.asserts;
 
 //package guru.springframework.unittest.asserts;
+
 import java.util.HashMap;
 import java.util.Map;
-import  java.util.regex.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Identity {
     private String message;
